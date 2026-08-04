@@ -1,2 +1,2 @@
 # my-profile
-Self introduction site
+I am a University student
